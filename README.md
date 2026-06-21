@@ -136,6 +136,7 @@ Bandwidth allocated to: 'Video-Conf' (priority 7)
 
 2.10 Screenshots
 ￼
+<img width="713" height="711" alt="Screenshot 2026-06-16 at 2 32 42 AM" src="https://github.com/user-attachments/assets/eb9eee23-8064-44ec-98b9-48dc5782f37a" />
 
 
 
